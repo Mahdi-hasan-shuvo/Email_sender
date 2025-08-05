@@ -73,10 +73,12 @@ Report issues or contribute via [GitHub](https://github.com/Mahdi-hasan-shuvo/Em
 ---
 
 Would you like any modifications (e.g., adding more config options, security notes, or screenshots)? 🚀
-<img width="1229" height="837" alt="Screenshot 2025-07-28 131608" src="https://github.com/user-attachments/assets/f71d6e99-e342-4aef-8380-1a46a083fbea" />
-
 
 ---
+
+<img width="1280" height="830" alt="image" src="https://github.com/user-attachments/assets/e5fb1d62-4428-4c2f-b1b2-71b17f702435" />
+
+
 
 ## 💼 Contact Me for Paid Projects
 
