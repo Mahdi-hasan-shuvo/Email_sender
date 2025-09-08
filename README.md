@@ -78,6 +78,7 @@ Would you like any modifications (e.g., adding more config options, security not
 
 <img width="1280" height="830" alt="image" src="https://github.com/user-attachments/assets/e5fb1d62-4428-4c2f-b1b2-71b17f702435" />
 
+<img width="1285" height="915" alt="image" src="https://github.com/user-attachments/assets/df223f3c-8db9-4e2d-bc4b-0b6e495a78df" />
 
 
 ## 💼 Contact Me for Paid Projects
